@@ -1,6 +1,6 @@
 # flutter_hive
 
-A new Flutter project.
+Notes Keeping Application using hive database
 
 ## Getting Started
 
